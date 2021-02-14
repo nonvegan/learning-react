@@ -13,7 +13,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "serve"_: "serve -s build",
+    "serve": "serve -s build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
