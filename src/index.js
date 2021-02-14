@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDom from "react-dom";
-import { petSupplies } from "./petSupplies";
+import { petSupplies } from "./data/petSupplies";
 import PetSupply  from "./PetSupply";
 import "./style.css";
 
